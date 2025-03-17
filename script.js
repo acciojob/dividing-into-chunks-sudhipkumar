@@ -9,6 +9,7 @@ const divide = (arr, n) => {
       subarray = [];
       currentSum = 0;
     }
+	  //
     
     subarray.push(num);
     currentSum += num;
